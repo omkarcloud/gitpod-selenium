@@ -1,0 +1,5 @@
+image: Chetan11/gitpod-selenium
+
+tasks:
+  - init: pip install selenium webdriver-manager
+    command: python main.py
