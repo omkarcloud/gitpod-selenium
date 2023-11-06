@@ -1,8 +1,4 @@
-image:
-  file: Dockerfile
-
-# image: Chetan11/gitpod-selenium
-# image: Chetan11/gitpod-selenium
+image: chetan1111/gitpod-selenium
 
 tasks:
   - init: pip install selenium webdriver-manager
