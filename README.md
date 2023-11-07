@@ -65,6 +65,6 @@ Become one of our amazing stargazers by giving us a star ⭐ on GitHub!
 
 It's just one click, but it means the world to me.
 
-[![Stargazers for @omkarcloud/gitpod-selenium](https://reporoster.com/stars/omkarcloud/gitpod-selenium)](https://github.com/omkarcloud/gitpod-selenium/stargazers)
+[![Stargazers for @omkarcloud/gitpod-selenium](https://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=omkarcloud&repo=gitpod-selenium)](https://github.com/omkarcloud/gitpod-selenium/stargazers)
 
 ## Made with *Discipline* for you in Bharat 🇮🇳 - Vande Mataram
